@@ -8,7 +8,7 @@ This book provides step-by-step guide, short, clear, and direct. Each topic is b
 
 ## Download
 
-[Download the complete book](Excel In Excel - From Beginner to Professional (ebook).pdf)
+Download the complete book](Excel In Excel - From Beginner to Professional (ebook).pdf)
 
 ## Copyright
 
