@@ -8,7 +8,7 @@ This book provides step-by-step guide, short, clear, and direct. Each topic is b
 
 ## Download
 
-[[Download the complete book](My-Book.pdf](https://github.com/ask4assist-create/Excel/blob/0763be64884e7e3315e52bf65220217abef382bc/Excel%20In%20Excel%20-%20From%20Beginner%20to%20Professional%20(ebook).pdf))
+[[Download the complete book](My-Book.pdf](https://github.com/ask4assist-create/Excel/blob/0763be64884e7e3315e52bf65220217abef382bc/Excel%20In%20Excel%20-%20From%20Beginner%20to%20Professional%20(ebook).pdf))]
 
 ## Copyright
 
