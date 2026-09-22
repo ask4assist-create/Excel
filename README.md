@@ -1,10 +1,10 @@
-# The Complete Guide to ______
+# The Complete Guide to Microsoft Excel
 
-Author: Khaled Elhabashy
+Author: Ask 4 Assist
 
 ## About this book
 
-This book provides...
+This book provides step-by-step guide, short, clear, and direct. Each topic is broken down into easy-to-follow steps, so you can learn and apply Excel quickly without getting lost in unnecessary details.
 
 ## Download
 
@@ -12,6 +12,6 @@ This book provides...
 
 ## Copyright
 
-Copyright © 2026 Khaled Elhabashy.
+Copyright © 2026 Ask 4 Assist.
 
 This book is made freely available for personal and educational use.
